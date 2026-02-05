@@ -78,7 +78,7 @@ links:
       title: "This Isn't Working: Exploring and Facing how our Lives are Going. A podcast I do with a friend"
       target: "_blank"
   - link:
-      icon: "fa-brands fa-markdown"
+      icon: "fa-solid fa-blog"
       text: "My rarely-used blog"
       url: "https://www.bethanycorcoran.co.uk"
       alt: "My rarely-used blog"
